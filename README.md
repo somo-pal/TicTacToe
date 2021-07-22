@@ -1,1 +1,1 @@
-# TicTacToe
+Python Game: Tic-Tac-Toe (micro) - Also a small python based game in which two players play it. It is a pattern game in which each user can use only one type of symbol to complete a straight line by having alternate chances to break each others opportunity to complete the line.
